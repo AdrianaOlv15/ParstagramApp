@@ -30,5 +30,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:text="LOGIN" />
+        android:backgroundTint="@color/teal_200"
+        android:text="LOGIN"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
 </LinearLayout>
