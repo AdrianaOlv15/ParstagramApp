@@ -34,4 +34,23 @@
         android:text="LOGIN"
         android:textColor="#FFFFFF"
         android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="New user? Sign Up with this button."
+        android:textColor="@color/purple_500"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:backgroundTint="@color/purple_200"
+        android:text="Sign Up"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
 </LinearLayout>
